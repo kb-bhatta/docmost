@@ -1,6 +1,6 @@
 <div align="center">
     <h1><b>Docmost</b></h1>
-    <p>
+    <p> (test self host)
         Open-source collaborative wiki and documentation software.
         <br />
         <a href="https://docmost.com"><strong>Website</strong></a> | 
